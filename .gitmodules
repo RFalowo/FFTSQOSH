@@ -1,0 +1,6 @@
+[submodule "lib/JUCE"]
+	path = lib/JUCE
+	url = git@github.com:juce-framework/JUCE.git
+[submodule "lib/fftw3"]
+	path = lib/fftw3
+	url = git@github.com:FFTW/fftw3.git
